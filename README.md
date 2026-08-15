@@ -1,38 +1,56 @@
-<!-- ANIMATED TYPING HEADER -->
+<!-- TOP GRAPHIC BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vishnu+V+%F0%9F%90%8B;Full-Stack+Web+Developer;Python+%E2%80%A2+Django+%E2%80%A2+React+Developer;Building+AI-Powered+SaaS+Products" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=VISHNU%20V&fontSize=50&fontColor=818cf8&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20%26%20React%20Builder&descSize=20&descAlign=50&descAlignY=70" width="100%" />
+</div>
+
+<!-- ANIMATED TYPING SUBHEADING -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+%26+Web+Applications..." alt="Typing Subheading" />
 </div>
 
 <br />
 
-<!-- HERO ACTION BADGES -->
-<div align="center">
-  <a href="https://ai-startup-validator-a7fklhzj8-vishnu-v-s-projects.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-StartupValidator-6366F1?style=for-the-badge&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/Vishnuvsh/ai-startup-validator">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+<!-- SUB-CAPTION WITH ICON -->
+<p align="center">
+  💻 <b>Full-Stack Software Developer</b> • Python | Django 6.0 | React | AI SaaS Builder
+</p>
+
+<!-- CUSTOM COLORED BADGES (Match your screenshot) -->
+<p align="center">
+  <a href="https://github.com/Vishnuvsh">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/💼_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="https://ai-startup-validator-a7fklhzj8-vishnu-v-s-projects.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<hr />
+
+### 💁 About Me
+
+I'm a **Full-Stack Software Developer** passionate about software architecture, modern web frameworks, UI/UX design, and building real-world AI applications.
+
+- 🛠️ **Main Stack**: Python, Django 6.0, REST APIs, React.js, TypeScript, TailwindCSS, PostgreSQL.
+- 🚀 **Featured Project**: **StartupValidator** — an AI Executive Command Center powered by **Groq LLaMA 3.3 70B**.
+- 🌐 **Live Demo**: [ai-startup-validator.vercel.app](https://ai-startup-validator-a7fklhzj8-vishnu-v-s-projects.vercel.app)
 
 <br />
 
----
+### 💻 Tech Stack & Tools
 
-### 🚀 About Me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,ts,tailwind,postgres,git,vscode,postman,vercel,vite" alt="Tech Stack" />
+</p>
 
-- 👨‍💻 **Full-Stack Web Developer** passionate about building high-performance web applications & AI integrations.
-- 🛠️ **Tech Stack**: Python, Django 6.0, Django REST Framework, React, TypeScript, TailwindCSS, Groq AI, PostgreSQL.
-- 🌟 **Currently Building**: **StartupValidator** — an AI Executive Command Center for validating business concepts.
+<br />
 
-```javascript
-const vishnu = {
-  code: ["Python", "Django", "React", "TypeScript", "TailwindCSS"],
-  database: ["PostgreSQL", "SQLite"],
-  architecture: ["REST APIs", "AI Integrations", "Microservices"],
-  currentlyBuilding: "StartupValidator (AI Executive Command Center)",
-  passionateAbout: ["Clean Code", "Modern UI/UX", "Scalable Systems"]
-};
+### 📊 GitHub Dynamic Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnuvsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuvsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
