@@ -28,11 +28,9 @@
 
 ### 💁 About Me
 
-I'm a **Full-Stack Software Developer** passionate about software architecture, modern web frameworks, UI/UX design, and building real-world AI applications.
+I'm a **Full-Stack Software Developer** passionate about software architecture, modern web frameworks and building real-world AI applications.
 
 - 🛠️ **Main Stack**: Python, Django 6.0, REST APIs, React.js, TypeScript, TailwindCSS, PostgreSQL.
-- 🚀 **Featured Project**: **StartupValidator** — an AI Executive Command Center powered by **Groq LLaMA 3.3 70B**.
-- 🌐 **Live Demo**: [ai-startup-validator.vercel.app](https://ai-startup-validator-a7fklhzj8-vishnu-v-s-projects.vercel.app)
 
 <br />
 
@@ -47,6 +45,13 @@ I'm a **Full-Stack Software Developer** passionate about software architecture, 
 ### 📊 GitHub Dynamic Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnuvsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuvsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnuvsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuvsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" width="48%" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vishnuvsh&theme=tokyonight&hide_border=true&background=0D1117&ring=818cf8&fire=f59e0b" width="97%" />
+</div>
+
