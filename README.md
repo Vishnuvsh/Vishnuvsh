@@ -45,8 +45,8 @@ I'm a **Full-Stack Software Developer** passionate about software architecture, 
 ### 📊 GitHub Dynamic Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnuvsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuvsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnuvsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuvsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800&v=1" width="48%" />
 </div>
 
 <br />
