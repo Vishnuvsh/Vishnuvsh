@@ -52,6 +52,6 @@ I'm a **Full-Stack Software Developer** passionate about software architecture, 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vishnuvsh&theme=tokyonight&hide_border=true&background=0D1117&ring=818cf8&fire=f59e0b" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=Vishnuvsh&theme=tokyonight&hide_border=true&background=0D1117&ring=818cf8&fire=f59e0b&v=1" width="97%" />
 </div>
 
